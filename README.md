@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Arshdeep Singh
 
-<!--
-**arshdeepsarsh/arshdeepsarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Generative AI | RAG Systems
 
-Here are some ideas to get you started:
+I build production-ready AI systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases
+* AI-powered SaaS applications
+
+### 🔬 Current Focus
+
+• Generative AI Applications
+• AI Agents & RAG Systems
+• AI Automation for Business
+
+### 🧠 AI Projects
+
+* **AI Invoice Intelligence** — AI-powered invoice automation platform
+* **ARTEMIS-AI** — Multi-technology surveillance & intelligence system
+* **Indra AI** — RAG chatbot with Streamlit & Qdrant
+* **AI Career Coach** — AI-based career guidance system
+
+### 🛠 Tech Stack
+
+Python • FastAPI • LangChain • Ollama • OpenAI
+Qdrant • Vector Databases • Streamlit • React
+
+### 📫 Contact
+
+Email: [arshdeepsingh2251@gmail.com](mailto:arshdeepsingh2251@gmail.com)
+LinkedIn: linkedin.com/in/arshdeep-singh-tech
