@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Arshdeep Singh
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+Engineer;Generative+AI;RAG+Systems;LLM+Applications)
+
 🚀 **AI Engineer | Generative AI | RAG Systems | Full-Stack Developer**
 
 I build **production-ready AI systems** that combine **Large Language Models, Retrieval-Augmented Generation (RAG), vector databases, and modern full-stack architectures**.
