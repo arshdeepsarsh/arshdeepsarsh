@@ -17,68 +17,44 @@ My work focuses on building **real-world AI applications**, from intelligent aut
 • Retrieval-Augmented Generation (RAG)
 • AI Automation for Business Workflows
 
+---
 
+## 🧠 Featured Projects
 
-# 🧠 Featured AI Projects
+### **🚀 AI Invoice Intelligence**
+AI-powered invoice automation platform using **OCR + LLM reasoning**.
 
-### 🚀 AI Invoice Intelligence
+*FastAPI • Ollama • React • PyMuPDF*
 
-AI-powered invoice automation platform that extracts structured data from PDF invoices using **OCR + LLM reasoning**.
+### **🤖 Indra AI**
+RAG chatbot that answers questions using **document context and vector search**.
 
-**Tech:** FastAPI, Ollama, React, Tailwind, PyMuPDF
+*Streamlit • Qdrant • OpenAI • Python*
+
+### **🛰 ARTEMIS-AI**
+Multi-technology **AI surveillance & intelligence system** with modular architecture.
+
+*Python • OpenCV • Docker*
+
+### **🎓 AI Career Coach**
+AI assistant providing **career guidance and skill recommendations**.
+
+*Python • NLP • ML*
 
 ---
 
-### 🤖 Indra AI
+## 💻 Other Projects
 
-Retrieval-Augmented Generation chatbot that answers questions using **document context and vector search**.
+### **Employee Management System** 
+– Spring Boot + MySQL full-stack system
 
-**Tech:** Streamlit, Qdrant, OpenAI Embeddings, Python
+### **Employee Sentiment Analysis**
+– LLM-based NLP project
 
----
-
-### 🛰 ARTEMIS-AI
-
-Multi-technology **AI surveillance and intelligence system** combining computer vision, backend services, and containerized deployment.
-
-**Tech:** Python, OpenCV, Docker, Modular AI Architecture
+### **Qwen RAG Chatbot / Chatbox Agent / Multiverse Arena**
+– AI experiments
 
 ---
-
-### 🎓 AI Career Coach
-
-AI assistant that analyzes user interests and goals to provide **personalized career guidance and skill recommendations**.
-
-**Tech:** Python, NLP, Machine Learning
-
----
-
-### 📊 Employee Sentiment Analysis
-
-LLM-based NLP system that analyzes employee feedback and determines **organizational sentiment patterns**.
-
-**Tech:** Python, NLP, Jupyter
-
----
-
-# 💻 Software Engineering Projects
-
-### 🏢 Employee Management System
-
-Full-stack enterprise application with authentication, employee CRUD operations, and analytics dashboards.
-
-**Tech:** Spring Boot, MySQL, Java, HTML, CSS, JavaScript, Bootstrap
-
-
-
-# ⚙️ AI / ML Experiments
-
-• Qwen RAG Chatbot
-• Chatbox Agent
-• Multiverse Arena AI Experiments
-
-These projects explore **LLM pipelines, conversational AI, and system integration experiments**.
-
 
 
 # 🛠 Tech Stack
