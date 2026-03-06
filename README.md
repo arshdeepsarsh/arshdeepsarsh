@@ -61,29 +61,12 @@ AI assistant providing **career guidance and skill recommendations**.
 
 **Languages**
 
-Python • Java • JavaScript • SQL
-
-**AI / Machine Learning**
-
-LLMs • RAG • NLP • Prompt Engineering • Model Evaluation
-
-**Frameworks & Tools**
-
-FastAPI • LangChain • Streamlit • Ollama • OpenAI APIs
-
-**Databases**
-
-Qdrant • Vector Databases • MySQL
-
-**Frontend**
-
-React • Tailwind • HTML • CSS • Bootstrap
-
-**DevOps**
-
-Docker • Git • GitHub
-
-
+- **Languages:** Python • Java • JavaScript • SQL
+- **AI:** LLMs • RAG • NLP • Prompt Engineering
+- **Frameworks:** FastAPI • LangChain • Streamlit
+- **Databases:** Qdrant • MySQL
+- **Frontend:** React • Tailwind • HTML/CSS
+- **Tools:** Docker • Git • GitHub
 
 
 # 📫 Connect With Me
