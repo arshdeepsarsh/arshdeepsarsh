@@ -19,43 +19,6 @@ My work focuses on building **real-world AI applications**, from intelligent aut
 
 ---
 
-## 🧠 Featured Projects
-
-### **🚀 AI Invoice Intelligence**
-AI-powered invoice automation platform using **OCR + LLM reasoning**.
-
-*FastAPI • Ollama • React • PyMuPDF*
-
-### **🤖 Indra AI**
-RAG chatbot that answers questions using **document context and vector search**.
-
-*Streamlit • Qdrant • OpenAI • Python*
-
-### **🛰 ARTEMIS-AI**
-Multi-technology **AI surveillance & intelligence system** with modular architecture.
-
-*Python • OpenCV • Docker*
-
-### **🎓 AI Career Coach**
-AI assistant providing **career guidance and skill recommendations**.
-
-*Python • NLP • ML*
-
----
-
-## 💻 Other Projects
-
-### **Employee Management System** 
-– Spring Boot + MySQL full-stack system
-
-### **Employee Sentiment Analysis**
-– LLM-based NLP project
-
-### **Qwen RAG Chatbot / Chatbox Agent / Multiverse Arena**
-– AI experiments
-
----
-
 
 # 🛠 Tech Stack
 
